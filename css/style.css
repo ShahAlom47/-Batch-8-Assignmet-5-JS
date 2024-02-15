@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Work sans-serif;
+}
+.btnn{
+
+  background-color:#f11a7b;
+  padding: 3px;
+  border-radius: 6px;
+  font-weight:bold;
+  color: white;
+  font-size: 13px;
+}
+.btnn:hover{
+  background-color:#d61e71;
+}
+
+.paraS{
+
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3px;
+}
